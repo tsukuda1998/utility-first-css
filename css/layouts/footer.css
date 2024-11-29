@@ -1,0 +1,7 @@
+/* footer.css */
+.footer {
+  background-color: #f9fafb; /* bg-gray-50 */
+  padding: 1rem; /* p-4 */
+  text-align: center;
+  font-size: 0.875rem; /* text-sm */
+}

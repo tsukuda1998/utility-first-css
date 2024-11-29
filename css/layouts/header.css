@@ -1,0 +1,10 @@
+/* header.css */
+.header {
+  background-color: #f9fafb; /* bg-gray-50 */
+  padding: 1rem; /* p-4 */
+}
+
+.header .logo {
+  font-size: 1.5rem; /* text-2xl */
+  font-weight: 700; /* font-bold */
+}

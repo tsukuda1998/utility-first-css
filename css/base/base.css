@@ -1,0 +1,11 @@
+/* base.css */
+html, body {
+  height: 100%;
+  font-family: sans-serif;
+  color: #1a202c; /* Tailwindのテキストカラー */
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
